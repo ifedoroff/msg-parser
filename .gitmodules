@@ -1,0 +1,3 @@
+[submodule "compound-file-java"]
+	path = compound-file-java
+	url = https://github.com/ifedoroff/compound-file-java

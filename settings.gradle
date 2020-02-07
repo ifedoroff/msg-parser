@@ -1,2 +1,3 @@
 rootProject.name = 'msg-parser'
+include 'compound-file-java'
 
